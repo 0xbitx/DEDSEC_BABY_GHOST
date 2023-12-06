@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/a3b3b2afca88937.png" width="50%" height="50%">
+<img src="https://cdn-icons-png.flaticon.com/512/8104/8104917.png" width="45%" height="45%">
 </p>
 
 <h1 align="center"> DEDSEC_BABY_GHOST </h1>
