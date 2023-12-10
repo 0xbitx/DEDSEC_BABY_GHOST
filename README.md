@@ -13,7 +13,8 @@ DEDSEC_BABY_GHOST is a linux based tool Specializing in Discord token brute-forc
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_BABY_GHOST.git
     * cd DEDSEC_BABY_GHOST
-    * pip install tabulate pystyle
+    * pip install pystyle
+    * chmod +x dedsec_babyghost
     * ./dedsec_babyghost
 
 ### TESTED ON FOLLOWING:
